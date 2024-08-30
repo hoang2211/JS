@@ -4,6 +4,6 @@ function function1(){
 }
 
 function function2(){
-    let x = 2;
+    let x = 3;
     console.log(x);
 }

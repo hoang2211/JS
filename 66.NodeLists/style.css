@@ -1,0 +1,14 @@
+body{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: flex;
+}
+.myBtns{
+    font-size: 3rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: hsl(63, 100%, 50%);
+    color: rgb(0, 0, 0);
+}
